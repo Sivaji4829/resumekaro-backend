@@ -3,4 +3,3 @@ uvicorn
 supabase 
 pydantic 
 cors 
-python-dotenv
