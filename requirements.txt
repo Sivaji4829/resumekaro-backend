@@ -1,7 +1,10 @@
-fastapi 
-uvicorn 
-supabase 
-pydantic 
-cors 
+fastapi
+uvicorn
+supabase
+pydantic
 httpx
 python-dotenv
+python-multipart
+pypdf
+python-docx
+python-pptx
